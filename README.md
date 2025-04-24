@@ -11,10 +11,14 @@ Sou estudante de Sistema de Informação na Usp e estou empolgada para aprender 
 -Sempre amei esportes (atualmente pratico volei na EACH)
 -Já fui campeã paulista duas vezes na natação e fiquei em quarto lugar em um campeonato brasileiro
 
+---
+
 ### 📚 LINGUAGENS QUE ESTOU APRENDENDO
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+
+---
 
 ### 📫 CONECTE-SE COMIGO
 
