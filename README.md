@@ -8,9 +8,9 @@ Sou estudante de Sistema de Informação na Usp e estou empolgada para aprender 
 
 ### 👑 SOBRE MIM
 
-- Atualmente estou cursando meu primeiro semestre de Sistema de Informação na EACH
-- Sempre amei esportes (atualmente pratico volei na EACH)
-- Já fui campeã paulista duas vezes na natação e fiquei em quarto lugar em um campeonato brasileiro
+- 🖥️  Atualmente estou cursando meu primeiro semestre de Sistema de Informação na EACH
+- 🏐  Sempre amei esportes (atualmente pratico volei na EACH)
+- 🏊‍♀️  Já fui campeã paulista duas vezes na natação e fiquei em quarto lugar em um campeonato brasileiro
 
 ---
 
