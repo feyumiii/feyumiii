@@ -23,7 +23,7 @@ Sou estudante de Sistema de Informação na Usp e estou empolgada para aprender 
 
 ### 📫 CONECTE-SE COMIGO
 
-![LinkedIn](https://www.linkedin.com/in/fernandayumitaira/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandayumitaira/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fernandayta@gmail.com)
 
 
