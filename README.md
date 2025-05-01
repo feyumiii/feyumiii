@@ -16,15 +16,24 @@ Sou estudante de Sistema de Informação na Usp e estou empolgada para aprender 
 
 ### 📚 LINGUAGENS QUE ESTOU APRENDENDO
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+
+<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> </a>
 
 ---
 
 ### 📫 CONECTE-SE COMIGO
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandayumitaira/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fernandayta@gmail.com)
+
+<a href="https://www.linkedin.com/in/fernandayumitaira/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
+</a>
+<a href="mailto:fernandayta@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" />
+</a>
+<a href="https://www.instagram.com/feyumiii_/?hl=ne" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" />
+</a>
+
 
 
 
