@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=https://i.ibb.co/bjrM0nVZ/Imagem-do-Whats-App-de-2025-04-30-s-23-19-59-d151d073.jpghttps://ibb.co/SDK4jpg8" alt="minha foto" width="100%"/>
+</p>
+
 # Olá!
 
 Meu me chamo Fernanda. 
@@ -14,7 +18,7 @@ Sou estudante de Sistema de Informação na Usp e estou empolgada para aprender 
 
 ---
 
-### 📚 LINGUAGENS QUE ESTOU APRENDENDO
+### 📚 FERRAMENTAS QUE ESTOU APRENDENDO
 
 
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> </a>
